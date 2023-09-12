@@ -10,6 +10,8 @@ Skills: SQL · Ruby · Ruby on Rails · Cascading Style Sheets (CSS) · HTML · 
 Go far. Feel good. Follow your dreams. 
 Warmly 
 Zuzanna 
+
+#updategithubprofile #learnnewthingeveryday #havefun
   
 
 
