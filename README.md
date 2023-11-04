@@ -3,15 +3,21 @@ Welcome to the profile of a Junior Web Developer with a unique background in hum
 
 Skills: Atlassian · Asana · SQL · Ruby · Ruby on Rails · Cascading Style Sheets (CSS) · HTML · JavaScript · Visual Studio · Figma · GitHub
 
-- 🔭 I’m currently working on my project "Journey into yourself", see details on www.zuzannadobak.com
-- 🌱 I  
-- 📫 How to reach me: mail@zuzannadobak.com
+🚧 I’m currently working on my project "Journey into yourself", see details on:
+✅ https://www.zuzanndobak.com
+
+🌱 The journey continues. I've just completed online training programs:
+✅ Microsoft Azure Virtual Training: Fundamentals
+✅ Microsoft Azure Virtual Training: DevOps with GitHub
+
+📫 How to reach me: 
+✅ mail@zuzannadobak.com
 
 Go far. Feel good. Follow your dreams. 
 Warmly 
 Zuzanna 
 
-#updategithubprofile #learnnewthingeveryday #havefun
+#updategithubprofile #learnnewthingeveryday #havefun #learningisfun
   
 
 
