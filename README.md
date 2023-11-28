@@ -3,12 +3,21 @@ Welcome to the profile of a Junior Web Developer with a unique background in hum
 
 Skills: Atlassian · Asana · SQL · Ruby · Ruby on Rails · Cascading Style Sheets (CSS) · HTML · JavaScript · Visual Studio · Figma · GitHub
 
-🚧 I’m currently working on my project "Journey into yourself", see details on:
+🚧 I’m currently working on my project "reklatan. harmony of body, mind & spirit" (based on portfoliobox), see details on:
 ✅ https://www.zuzanndobak.com
+
+🚧 I've created a website for my husbands project (based on wix), see details on:
+✅ https://przemekdobak.com
+
+🚧 I've actively supported a project for my friend (based on wix), see details on:
+✅ https://www.reikihealingcph.com/
 
 🌱 The journey continues. I've just completed online training programs:
 ✅ Microsoft Azure Virtual Training: Fundamentals
 ✅ Microsoft Azure Virtual Training: DevOps with GitHub
+
+🥷 Building a career path and finishing my career transition. The journey continues. I've just started a new activity. 
+✅  @NinjaOne as a Solutions Engineer
 
 📫 How to reach me: 
 ✅ mail@zuzannadobak.com
